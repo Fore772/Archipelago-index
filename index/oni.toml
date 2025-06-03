@@ -1,0 +1,6 @@
+name = "Oxygen Not Included"
+home = "https://discord.com/channels/731205301247803413/1209238808625946634"
+default_url = "https://github.com/digiholic/ArchipelagoNotIncluded/releases/download/v{{version}}/oni.apworld"
+
+[versions]
+"0.0.2" = {}
